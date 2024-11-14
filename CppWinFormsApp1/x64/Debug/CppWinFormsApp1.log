@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\gohan\source\repos\CppWinFormsApp1\MyForm.cpp(8,11): error C2976: "std::array": no hay suficientes argumentos de plantilla
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(144,7):
+      vea la declaración de 'std::array'
+  
+C:\Users\gohan\source\repos\CppWinFormsApp1\MyForm.cpp(8,27): error C3699: '^': no se puede utilizar este direccionamiento indirecto en el tipo 'std::array'
+      C:\Users\gohan\source\repos\CppWinFormsApp1\MyForm.cpp(8,27):
+      el compilador reemplazará '^' por '*' para continuar con el análisis
+  
