@@ -24,7 +24,7 @@
     <ClCompile Include="Menu_Principal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MyForm.cpp">
+    <ClCompile Include="Buscador.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -35,7 +35,7 @@
     <ClInclude Include="Menu_Principal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MyForm.h">
+    <ClInclude Include="Buscador.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

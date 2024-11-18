@@ -1,6 +1,7 @@
 #pragma once
 #include <string>
 #include "Menu_Principal.h"
+#include "Inicio_sesion.h"
 
 namespace $safeprojectname$ {
 
@@ -204,8 +205,7 @@ private: System::Void txt_contraseña_TextChanged(System::Object^ sender, System:
 
 
 private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
-	Biblioteca::Menu_Principal^ menu_Principal = gcnew Biblioteca::Menu_Principal();
-	menu_Principal->Show();
 }
+
 };
 }
