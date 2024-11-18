@@ -18,11 +18,23 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Inicio_sesion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Principal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="MyForm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Inicio_sesion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_Principal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="MyForm.h">
       <Filter>Header Files</Filter>
     </ClInclude>
