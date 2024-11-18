@@ -1,0 +1,25 @@
+﻿  Inicio_sesion.cpp
+  Menu_Principal.cpp
+  MyForm.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(208,2): error C2653: 'Biblioteca': no es un nombre de clase o espacio de nombres
+  (compilando archivo de origen "Inicio_sesion.cpp")
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(208,14): error C2065: 'Menu_Principal': identificador no declarado
+  (compilando archivo de origen "Inicio_sesion.cpp")
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(208,30): error C2065: 'menu_Principal': identificador no declarado
+  (compilando archivo de origen "Inicio_sesion.cpp")
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(208,53): error C2653: 'Biblioteca': no es un nombre de clase o espacio de nombres
+  (compilando archivo de origen "Inicio_sesion.cpp")
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(208,65): error C2061: error de sintaxis: identificador 'Menu_Principal'
+  (compilando archivo de origen "Inicio_sesion.cpp")
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(209,2): error C2065: 'menu_Principal': identificador no declarado
+  (compilando archivo de origen "Inicio_sesion.cpp")
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.cpp(8,6): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\MyForm.cpp(1,10): error C1083: No se puede abrir el archivo incluir: 'MyForm.h': No such file or directory
+  Generando código...

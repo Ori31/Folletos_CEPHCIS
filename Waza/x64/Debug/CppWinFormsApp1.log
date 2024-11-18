@@ -1,0 +1,22 @@
+﻿  Inicio_sesion.cpp
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(208,19): error C2039: "Menu_Principal": no es un miembro de "CppWinFormsApp1"
+  (compilando archivo de origen "Inicio_sesion.cpp")
+      C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Menu_Principal.h(3,11):
+      vea la declaración de 'CppWinFormsApp1'
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(208,19): error C2065: 'Menu_Principal': identificador no declarado
+  (compilando archivo de origen "Inicio_sesion.cpp")
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(208,37): error C2065: 'menu_Principal': identificador no declarado
+  (compilando archivo de origen "Inicio_sesion.cpp")
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(208,62): error C2039: "Menu_Principal": no es un miembro de "`global namespace'"
+  (compilando archivo de origen "Inicio_sesion.cpp")
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(208,62): error C2061: error de sintaxis: identificador 'Menu_Principal'
+  (compilando archivo de origen "Inicio_sesion.cpp")
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.h(210,2): error C2065: 'menu_Principal': identificador no declarado
+  (compilando archivo de origen "Inicio_sesion.cpp")
+  
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\Inicio_sesion.cpp(8,6): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
