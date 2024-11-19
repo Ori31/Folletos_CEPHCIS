@@ -49,6 +49,8 @@ namespace CppWinFormsApp2 {
 	private: System::Windows::Forms::TextBox^ textBox6;
 	private: System::Windows::Forms::Button^ button2;
 	private: System::Windows::Forms::Label^ label7;
+	private: System::Windows::Forms::PictureBox^ pictureBox1;
+	private: System::Windows::Forms::Label^ label8;
 
 
 	private:
@@ -64,6 +66,7 @@ namespace CppWinFormsApp2 {
 		/// </summary>
 		void InitializeComponent(void)
 		{
+			System::ComponentModel::ComponentResourceManager^ resources = (gcnew System::ComponentModel::ComponentResourceManager(MyForm2::typeid));
 			this->label1 = (gcnew System::Windows::Forms::Label());
 			this->label2 = (gcnew System::Windows::Forms::Label());
 			this->label3 = (gcnew System::Windows::Forms::Label());
@@ -78,12 +81,15 @@ namespace CppWinFormsApp2 {
 			this->textBox6 = (gcnew System::Windows::Forms::TextBox());
 			this->button2 = (gcnew System::Windows::Forms::Button());
 			this->label7 = (gcnew System::Windows::Forms::Label());
+			this->pictureBox1 = (gcnew System::Windows::Forms::PictureBox());
+			this->label8 = (gcnew System::Windows::Forms::Label());
+			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->BeginInit();
 			this->SuspendLayout();
 			// 
 			// label1
 			// 
 			this->label1->AutoSize = true;
-			this->label1->Location = System::Drawing::Point(78, 99);
+			this->label1->Location = System::Drawing::Point(116, 112);
 			this->label1->Name = L"label1";
 			this->label1->Size = System::Drawing::Size(117, 16);
 			this->label1->TabIndex = 0;
@@ -92,7 +98,7 @@ namespace CppWinFormsApp2 {
 			// label2
 			// 
 			this->label2->AutoSize = true;
-			this->label2->Location = System::Drawing::Point(78, 188);
+			this->label2->Location = System::Drawing::Point(116, 201);
 			this->label2->Name = L"label2";
 			this->label2->Size = System::Drawing::Size(38, 16);
 			this->label2->TabIndex = 1;
@@ -101,7 +107,7 @@ namespace CppWinFormsApp2 {
 			// label3
 			// 
 			this->label3->AutoSize = true;
-			this->label3->Location = System::Drawing::Point(78, 143);
+			this->label3->Location = System::Drawing::Point(116, 156);
 			this->label3->Name = L"label3";
 			this->label3->Size = System::Drawing::Size(140, 16);
 			this->label3->TabIndex = 2;
@@ -111,7 +117,7 @@ namespace CppWinFormsApp2 {
 			// label4
 			// 
 			this->label4->AutoSize = true;
-			this->label4->Location = System::Drawing::Point(78, 230);
+			this->label4->Location = System::Drawing::Point(116, 243);
 			this->label4->Name = L"label4";
 			this->label4->Size = System::Drawing::Size(98, 16);
 			this->label4->TabIndex = 3;
@@ -120,7 +126,7 @@ namespace CppWinFormsApp2 {
 			// label5
 			// 
 			this->label5->AutoSize = true;
-			this->label5->Location = System::Drawing::Point(78, 275);
+			this->label5->Location = System::Drawing::Point(116, 288);
 			this->label5->Name = L"label5";
 			this->label5->Size = System::Drawing::Size(77, 16);
 			this->label5->TabIndex = 4;
@@ -129,7 +135,7 @@ namespace CppWinFormsApp2 {
 			// label6
 			// 
 			this->label6->AutoSize = true;
-			this->label6->Location = System::Drawing::Point(78, 317);
+			this->label6->Location = System::Drawing::Point(116, 330);
 			this->label6->Name = L"label6";
 			this->label6->Size = System::Drawing::Size(163, 16);
 			this->label6->TabIndex = 5;
@@ -137,7 +143,7 @@ namespace CppWinFormsApp2 {
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(322, 404);
+			this->button1->Location = System::Drawing::Point(360, 417);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(157, 37);
 			this->button1->TabIndex = 6;
@@ -147,42 +153,42 @@ namespace CppWinFormsApp2 {
 			// 
 			// textBox1
 			// 
-			this->textBox1->Location = System::Drawing::Point(406, 93);
+			this->textBox1->Location = System::Drawing::Point(444, 106);
 			this->textBox1->Name = L"textBox1";
 			this->textBox1->Size = System::Drawing::Size(281, 22);
 			this->textBox1->TabIndex = 7;
 			// 
 			// textBox2
 			// 
-			this->textBox2->Location = System::Drawing::Point(404, 136);
+			this->textBox2->Location = System::Drawing::Point(442, 149);
 			this->textBox2->Name = L"textBox2";
 			this->textBox2->Size = System::Drawing::Size(282, 22);
 			this->textBox2->TabIndex = 8;
 			// 
 			// textBox3
 			// 
-			this->textBox3->Location = System::Drawing::Point(402, 183);
+			this->textBox3->Location = System::Drawing::Point(440, 196);
 			this->textBox3->Name = L"textBox3";
 			this->textBox3->Size = System::Drawing::Size(284, 22);
 			this->textBox3->TabIndex = 9;
 			// 
 			// textBox4
 			// 
-			this->textBox4->Location = System::Drawing::Point(402, 229);
+			this->textBox4->Location = System::Drawing::Point(440, 242);
 			this->textBox4->Name = L"textBox4";
 			this->textBox4->Size = System::Drawing::Size(284, 22);
 			this->textBox4->TabIndex = 10;
 			// 
 			// textBox6
 			// 
-			this->textBox6->Location = System::Drawing::Point(404, 322);
+			this->textBox6->Location = System::Drawing::Point(442, 335);
 			this->textBox6->Name = L"textBox6";
 			this->textBox6->Size = System::Drawing::Size(282, 22);
 			this->textBox6->TabIndex = 12;
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(439, 275);
+			this->button2->Location = System::Drawing::Point(477, 288);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(203, 25);
 			this->button2->TabIndex = 13;
@@ -193,17 +199,40 @@ namespace CppWinFormsApp2 {
 			// 
 			this->label7->AutoSize = true;
 			this->label7->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 15));
-			this->label7->Location = System::Drawing::Point(302, 31);
+			this->label7->Location = System::Drawing::Point(327, 34);
 			this->label7->Name = L"label7";
 			this->label7->Size = System::Drawing::Size(190, 29);
 			this->label7->TabIndex = 14;
 			this->label7->Text = L"Agregar folletos";
+			// 
+			// pictureBox1
+			// 
+			this->pictureBox1->Image = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"pictureBox1.Image")));
+			this->pictureBox1->Location = System::Drawing::Point(0, 1);
+			this->pictureBox1->Name = L"pictureBox1";
+			this->pictureBox1->Size = System::Drawing::Size(83, 81);
+			this->pictureBox1->SizeMode = System::Windows::Forms::PictureBoxSizeMode::StretchImage;
+			this->pictureBox1->TabIndex = 16;
+			this->pictureBox1->TabStop = false;
+			// 
+			// label8
+			// 
+			this->label8->Font = (gcnew System::Drawing::Font(L"Bahnschrift SemiCondensed", 7.8F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>(0)));
+			this->label8->Location = System::Drawing::Point(73, 8);
+			this->label8->Name = L"label8";
+			this->label8->Size = System::Drawing::Size(175, 55);
+			this->label8->TabIndex = 15;
+			this->label8->Text = L"UNIVERSIDAD AUTONOMA NACIONAL DE MEXICO";
+			this->label8->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
 			// 
 			// MyForm2
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			this->ClientSize = System::Drawing::Size(873, 517);
+			this->Controls->Add(this->pictureBox1);
+			this->Controls->Add(this->label8);
 			this->Controls->Add(this->label7);
 			this->Controls->Add(this->button2);
 			this->Controls->Add(this->textBox6);
@@ -220,6 +249,7 @@ namespace CppWinFormsApp2 {
 			this->Controls->Add(this->label1);
 			this->Name = L"MyForm2";
 			this->Text = L"Agregar Folletos";
+			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
 			this->ResumeLayout(false);
 			this->PerformLayout();
 

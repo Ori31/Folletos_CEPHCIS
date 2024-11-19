@@ -43,6 +43,11 @@ namespace $safeprojectname$ {
 	private: System::Windows::Forms::Label^ label1;
 	private: System::Windows::Forms::Label^ label2;
 	private: System::Windows::Forms::Button^ button2;
+	private: System::Windows::Forms::Label^ label3;
+
+
+
+
 
 
 	protected:
@@ -66,13 +71,14 @@ namespace $safeprojectname$ {
 			this->label1 = (gcnew System::Windows::Forms::Label());
 			this->label2 = (gcnew System::Windows::Forms::Label());
 			this->button2 = (gcnew System::Windows::Forms::Button());
+			this->label3 = (gcnew System::Windows::Forms::Label());
 			this->SuspendLayout();
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(249, 245);
+			this->button1->Location = System::Drawing::Point(268, 322);
 			this->button1->Name = L"button1";
-			this->button1->Size = System::Drawing::Size(285, 44);
+			this->button1->Size = System::Drawing::Size(284, 44);
 			this->button1->TabIndex = 0;
 			this->button1->Text = L"Iniciar sesion como administrador";
 			this->button1->UseVisualStyleBackColor = true;
@@ -80,7 +86,7 @@ namespace $safeprojectname$ {
 			// 
 			// txt_usuario
 			// 
-			this->txt_usuario->Location = System::Drawing::Point(249, 93);
+			this->txt_usuario->Location = System::Drawing::Point(263, 154);
 			this->txt_usuario->Name = L"txt_usuario";
 			this->txt_usuario->Size = System::Drawing::Size(285, 22);
 			this->txt_usuario->TabIndex = 1;
@@ -88,16 +94,18 @@ namespace $safeprojectname$ {
 			// 
 			// txt_contraseña
 			// 
-			this->txt_contraseña->Location = System::Drawing::Point(249, 190);
+			this->txt_contraseña->Location = System::Drawing::Point(263, 239);
 			this->txt_contraseña->Name = L"txt_contraseña";
+			this->txt_contraseña->PasswordChar = '*';
 			this->txt_contraseña->Size = System::Drawing::Size(289, 22);
 			this->txt_contraseña->TabIndex = 2;
+			this->txt_contraseña->UseSystemPasswordChar = true;
 			this->txt_contraseña->TextChanged += gcnew System::EventHandler(this, &MyForm::textBox2_TextChanged);
 			// 
 			// label1
 			// 
 			this->label1->AutoSize = true;
-			this->label1->Location = System::Drawing::Point(320, 74);
+			this->label1->Location = System::Drawing::Point(329, 135);
 			this->label1->Name = L"label1";
 			this->label1->Size = System::Drawing::Size(140, 16);
 			this->label1->TabIndex = 3;
@@ -106,7 +114,7 @@ namespace $safeprojectname$ {
 			// label2
 			// 
 			this->label2->AutoSize = true;
-			this->label2->Location = System::Drawing::Point(351, 171);
+			this->label2->Location = System::Drawing::Point(363, 220);
 			this->label2->Name = L"label2";
 			this->label2->Size = System::Drawing::Size(76, 16);
 			this->label2->TabIndex = 4;
@@ -114,7 +122,7 @@ namespace $safeprojectname$ {
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(249, 316);
+			this->button2->Location = System::Drawing::Point(268, 387);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(284, 41);
 			this->button2->TabIndex = 5;
@@ -122,11 +130,22 @@ namespace $safeprojectname$ {
 			this->button2->UseVisualStyleBackColor = true;
 			this->button2->Click += gcnew System::EventHandler(this, &MyForm::button2_Click);
 			// 
+			// label3
+			// 
+			this->label3->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 15));
+			this->label3->Location = System::Drawing::Point(246, 24);
+			this->label3->Name = L"label3";
+			this->label3->Size = System::Drawing::Size(316, 81);
+			this->label3->TabIndex = 6;
+			this->label3->Text = L"Servicio de folletos de la biblioteca de la UNAM";
+			this->label3->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
+			// 
 			// MyForm
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(836, 420);
+			this->ClientSize = System::Drawing::Size(839, 468);
+			this->Controls->Add(this->label3);
 			this->Controls->Add(this->button2);
 			this->Controls->Add(this->label2);
 			this->Controls->Add(this->label1);
@@ -166,5 +185,7 @@ namespace $safeprojectname$ {
 		Forms->Show();
 		this->Hide();
 	}
+private: System::Void pictureBox1_Click(System::Object^ sender, System::EventArgs^ e) {
+}
 };
 }

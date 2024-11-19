@@ -37,6 +37,7 @@ namespace CppWinFormsApp2 {
 	private: System::Windows::Forms::Button^ button1;
 	private: System::Windows::Forms::Label^ label1;
 	private: System::Windows::Forms::PictureBox^ pictureBox1;
+	private: System::Windows::Forms::Label^ label2;
 	private: System::Windows::Forms::TextBox^ textBox1;
 
 		   // ANIMACIÓN DE LA BARRA DE CARGA -MAU
@@ -89,13 +90,14 @@ namespace CppWinFormsApp2 {
 			this->vScrollBar1 = (gcnew System::Windows::Forms::VScrollBar());
 			this->progressBar1 = (gcnew System::Windows::Forms::ProgressBar());
 			this->timer1 = (gcnew System::Windows::Forms::Timer(this->components));
+			this->label2 = (gcnew System::Windows::Forms::Label());
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->BeginInit();
 			this->panel1->SuspendLayout();
 			this->SuspendLayout();
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(12, 424);
+			this->button1->Location = System::Drawing::Point(148, 428);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(177, 54);
 			this->button1->TabIndex = 0;
@@ -105,35 +107,37 @@ namespace CppWinFormsApp2 {
 			// 
 			// label1
 			// 
-			this->label1->AutoSize = true;
-			this->label1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 14.5F));
-			this->label1->Location = System::Drawing::Point(139, 12);
+			this->label1->Font = (gcnew System::Drawing::Font(L"Bahnschrift SemiCondensed", 7.8F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>(0)));
+			this->label1->Location = System::Drawing::Point(71, 9);
 			this->label1->Name = L"label1";
-			this->label1->Size = System::Drawing::Size(258, 29);
+			this->label1->Size = System::Drawing::Size(175, 55);
 			this->label1->TabIndex = 1;
-			this->label1->Text = L"Búsqueda de Folletos";
+			this->label1->Text = L"UNIVERSIDAD AUTONOMA NACIONAL DE MEXICO";
+			this->label1->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
 			// 
 			// pictureBox1
 			// 
 			this->pictureBox1->Image = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"pictureBox1.Image")));
-			this->pictureBox1->Location = System::Drawing::Point(12, 12);
+			this->pictureBox1->Location = System::Drawing::Point(-2, 2);
 			this->pictureBox1->Name = L"pictureBox1";
-			this->pictureBox1->Size = System::Drawing::Size(121, 121);
+			this->pictureBox1->Size = System::Drawing::Size(83, 81);
 			this->pictureBox1->SizeMode = System::Windows::Forms::PictureBoxSizeMode::StretchImage;
 			this->pictureBox1->TabIndex = 2;
 			this->pictureBox1->TabStop = false;
+			this->pictureBox1->Click += gcnew System::EventHandler(this, &MyForm3::pictureBox1_Click);
 			// 
 			// textBox1
 			// 
 			this->textBox1->Location = System::Drawing::Point(148, 86);
 			this->textBox1->Name = L"textBox1";
-			this->textBox1->Size = System::Drawing::Size(479, 22);
+			this->textBox1->Size = System::Drawing::Size(573, 22);
 			this->textBox1->TabIndex = 3;
 			this->textBox1->TextChanged += gcnew System::EventHandler(this, &MyForm3::textBox1_TextChanged);
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(586, 424);
+			this->button2->Location = System::Drawing::Point(626, 424);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(177, 54);
 			this->button2->TabIndex = 5;
@@ -143,13 +147,13 @@ namespace CppWinFormsApp2 {
 			// 
 			// button3
 			// 
-			this->button3->Location = System::Drawing::Point(633, 81);
+			this->button3->Location = System::Drawing::Point(727, 81);
 			this->button3->Name = L"button3";
-			this->button3->Size = System::Drawing::Size(93, 33);
+			this->button3->Size = System::Drawing::Size(76, 33);
 			this->button3->TabIndex = 6;
 			this->button3->Text = L"Buscar";
 			this->button3->UseVisualStyleBackColor = true;
-			this->button3->Click += gcnew System::EventHandler(this, &MyForm3::Button3_Click); //EVENTO PARA LA BARRA -MAU
+			this->button3->Click += gcnew System::EventHandler(this, &MyForm3::Button3_Click);
 			// 
 			// panel1
 			// 
@@ -158,13 +162,14 @@ namespace CppWinFormsApp2 {
 			this->panel1->Controls->Add(this->vScrollBar1);
 			this->panel1->Location = System::Drawing::Point(148, 115);
 			this->panel1->Name = L"panel1";
-			this->panel1->Size = System::Drawing::Size(479, 267);
+			this->panel1->Size = System::Drawing::Size(655, 267);
 			this->panel1->TabIndex = 7;
+			this->panel1->Paint += gcnew System::Windows::Forms::PaintEventHandler(this, &MyForm3::panel1_Paint);
 			// 
 			// vScrollBar1
 			// 
 			this->vScrollBar1->Dock = System::Windows::Forms::DockStyle::Right;
-			this->vScrollBar1->Location = System::Drawing::Point(450, 0);
+			this->vScrollBar1->Location = System::Drawing::Point(626, 0);
 			this->vScrollBar1->Name = L"vScrollBar1";
 			this->vScrollBar1->Size = System::Drawing::Size(25, 263);
 			this->vScrollBar1->TabIndex = 0;
@@ -174,7 +179,7 @@ namespace CppWinFormsApp2 {
 			// 
 			this->progressBar1->Location = System::Drawing::Point(148, 389);
 			this->progressBar1->Name = L"progressBar1";
-			this->progressBar1->Size = System::Drawing::Size(477, 23);
+			this->progressBar1->Size = System::Drawing::Size(653, 23);
 			this->progressBar1->TabIndex = 8;
 			// 
 			// timer1
@@ -182,11 +187,23 @@ namespace CppWinFormsApp2 {
 			this->timer1->Interval = 10;
 			this->timer1->Tick += gcnew System::EventHandler(this, &MyForm3::timer1_Tick);
 			// 
+			// label2
+			// 
+			this->label2->AutoSize = true;
+			this->label2->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 16.2F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
+				static_cast<System::Byte>(0)));
+			this->label2->Location = System::Drawing::Point(317, 32);
+			this->label2->Name = L"label2";
+			this->label2->Size = System::Drawing::Size(272, 32);
+			this->label2->TabIndex = 9;
+			this->label2->Text = L"Buscador de folletos";
+			// 
 			// MyForm3
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(775, 490);
+			this->ClientSize = System::Drawing::Size(946, 494);
+			this->Controls->Add(this->label2);
 			this->Controls->Add(this->progressBar1);
 			this->Controls->Add(this->panel1);
 			this->Controls->Add(this->button3);
@@ -217,6 +234,10 @@ private: System::Void textBox1_TextChanged(System::Object^ sender, System::Event
 private: System::Void vScrollBar1_Scroll(System::Object^ sender, System::Windows::Forms::ScrollEventArgs^ e) {
 }
 private: System::Void timer1_Tick(System::Object^ sender, System::EventArgs^ e) {
+}
+private: System::Void pictureBox1_Click(System::Object^ sender, System::EventArgs^ e) {
+}
+private: System::Void panel1_Paint(System::Object^ sender, System::Windows::Forms::PaintEventArgs^ e) {
 }
 };
 }
