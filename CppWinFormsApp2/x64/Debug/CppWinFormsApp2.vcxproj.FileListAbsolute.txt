@@ -10,3 +10,14 @@ C:\Users\gohan\source\repos\CppWinFormsApp2\x64\Debug\System.Numerics.Vectors.dl
 C:\Users\gohan\source\repos\CppWinFormsApp2\x64\Debug\System.Buffers.dll
 C:\Users\gohan\source\repos\CppWinFormsApp2\x64\Debug\MySql.Data.xml
 C:\Users\gohan\source\repos\CppWinFormsApp2\CppWinFormsApp2\x64\Debug\CppWinFo.C2005EEA.Up2Date
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\x64\Debug\System.Memory.dll
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\x64\Debug\System.Buffers.dll
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\CppWinFormsApp2\x64\Debug\CppWinFormsApp2.vcxproj.AssemblyReference.cache
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\CppWinFormsApp2\x64\Debug\CppWinFormsApp2.MyForm.resources
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\CppWinFormsApp2\x64\Debug\CppWinFormsApp2.MyForm1.resources
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\CppWinFormsApp2\x64\Debug\CppWinFormsApp2.MyForm2.resources
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\CppWinFormsApp2\x64\Debug\CppWinFormsApp2.vcxproj.GenerateResource.cache
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\CppWinFormsApp2\x64\Debug\CppWinFo.C2005EEA.Up2Date
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\CppWinFormsApp2\x64\Debug\CppWinFormsApp2.MyForm3.resources

@@ -1,5 +1,6 @@
 #pragma once
 #include "MyForm1.h"
+#include "MyForm3.h"
 
 namespace $safeprojectname$ {
 
@@ -119,6 +120,7 @@ namespace $safeprojectname$ {
 			this->button2->TabIndex = 5;
 			this->button2->Text = L"Acceder como invitado";
 			this->button2->UseVisualStyleBackColor = true;
+			this->button2->Click += gcnew System::EventHandler(this, &MyForm::button2_Click);
 			// 
 			// MyForm
 			// 
@@ -159,5 +161,10 @@ namespace $safeprojectname$ {
 	}
 	private: System::Void textBox2_TextChanged(System::Object^ sender, System::EventArgs^ e) {
 	}
-	};
+	private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
+		CppWinFormsApp2::MyForm3^ Forms = gcnew CppWinFormsApp2::MyForm3();
+		Forms->Show();
+		this->Hide();
+	}
+};
 }
