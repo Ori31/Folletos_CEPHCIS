@@ -1,0 +1,5 @@
+C:\Users\gohan\source\repos\CppWinFormsApp2\CppWinFormsApp2\x64\Debug\CppWinFormsApp2.vcxproj.AssemblyReference.cache
+C:\Users\gohan\source\repos\CppWinFormsApp2\CppWinFormsApp2\x64\Debug\CppWinFormsApp2.MyForm.resources
+C:\Users\gohan\source\repos\CppWinFormsApp2\CppWinFormsApp2\x64\Debug\CppWinFormsApp2.MyForm1.resources
+C:\Users\gohan\source\repos\CppWinFormsApp2\CppWinFormsApp2\x64\Debug\CppWinFormsApp2.vcxproj.GenerateResource.cache
+C:\Users\gohan\source\repos\CppWinFormsApp2\CppWinFormsApp2\x64\Debug\CppWinFormsApp2.MyForm2.resources
