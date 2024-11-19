@@ -10,6 +10,7 @@ namespace $safeprojectname$ {
 	using namespace System::Data;
 	using namespace System::Drawing;
 
+
 	/// <summary>
 	/// Summary for MyForm
 	/// </summary>
