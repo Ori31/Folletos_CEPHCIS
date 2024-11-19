@@ -1,6 +1,6 @@
 ﻿  MyForm.cpp
-C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\MyForm.cpp(8,6): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\42446504\Desktop\GitHub\UNAM Software\Biblioteca_UNAM\MyForm.cpp(8,6): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
   MyForm3.cpp
   Generando código...
   MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
-  CppWinFormsApp2.vcxproj -> C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\x64\Debug\CppWinFormsApp2.exe
+  CppWinFormsApp2.vcxproj -> C:\Users\42446504\Desktop\GitHub\UNAM Software\Biblioteca_UNAM\x64\Debug\CppWinFormsApp2.exe
