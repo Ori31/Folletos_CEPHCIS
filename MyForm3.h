@@ -113,7 +113,7 @@ namespace CppWinFormsApp2 {
 			this->label1->Name = L"label1";
 			this->label1->Size = System::Drawing::Size(175, 55);
 			this->label1->TabIndex = 1;
-			this->label1->Text = L"UNIVERSIDAD AUTONOMA NACIONAL DE MEXICO";
+			this->label1->Text = L"UNIVERSIDAD NACIONAL AUTÓNOMA DE MEXICO";
 			this->label1->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
 			// 
 			// pictureBox1

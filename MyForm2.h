@@ -223,8 +223,9 @@ namespace CppWinFormsApp2 {
 			this->label8->Name = L"label8";
 			this->label8->Size = System::Drawing::Size(175, 55);
 			this->label8->TabIndex = 15;
-			this->label8->Text = L"UNIVERSIDAD AUTONOMA NACIONAL DE MEXICO";
+			this->label8->Text = L"UNIVERSIDAD NACIONAL AUTÓNOMA DE MEXICO";
 			this->label8->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
+			this->label8->Click += gcnew System::EventHandler(this, &MyForm2::label8_Click);
 			// 
 			// MyForm2
 			// 
@@ -260,5 +261,7 @@ namespace CppWinFormsApp2 {
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
 		MessageBox::Show(L"Folleto Añadido correctamente");
 	}
+private: System::Void label8_Click(System::Object^ sender, System::EventArgs^ e) {
+}
 };
 }
