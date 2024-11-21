@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\",
+  "WorkspaceRootPath": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|solutionrelative:MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|solutionrelative:MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|solutionrelative:MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|solutionrelative:MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|solutionrelative:MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|solutionrelative:MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|solutionrelative:MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{AE46C2A2-6722-4FD5-90DF-8D33A656D8C9}|CppWinFormsApp2.vcxproj|solutionrelative:MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MyForm3.h",
-              "DocumentMoniker": "C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm3.h",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm3.h",
               "RelativeDocumentMoniker": "MyForm3.h",
-              "ToolTip": "C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm3.h*",
-              "RelativeToolTip": "MyForm3.h*",
-              "ViewState": "AgIAAN4AAAAAAAAAAAAAAHMAAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm3.h",
+              "RelativeToolTip": "MyForm3.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-19T18:42:51.387Z",
               "IsPinned": true,
@@ -52,11 +68,74 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm.cpp",
+              "RelativeDocumentMoniker": "MyForm.cpp",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm.cpp",
+              "RelativeToolTip": "MyForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T16:29:06.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm.h",
+              "RelativeToolTip": "MyForm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T13:20:33.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm1.h",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm1.h",
+              "RelativeDocumentMoniker": "MyForm1.h",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm1.h",
+              "RelativeToolTip": "MyForm1.h",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAhwJYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T16:08:22.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MyForm1.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm1.h",
+              "RelativeDocumentMoniker": "MyForm1.h",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm1.h [Dise\u00F1o]",
+              "RelativeToolTip": "MyForm1.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T15:57:29.043Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "MyForm.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T15:48:17.64Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MyForm2.h [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm2.h",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm2.h",
               "RelativeDocumentMoniker": "MyForm2.h",
-              "ToolTip": "C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm2.h [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm2.h [Dise\u00F1o]",
               "RelativeToolTip": "MyForm2.h [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-21T15:22:39.77Z",
@@ -64,28 +143,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MyForm3.h [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm3.h",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm3.h",
               "RelativeDocumentMoniker": "MyForm3.h",
-              "ToolTip": "C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm3.h [Dise\u00F1o]*",
-              "RelativeToolTip": "MyForm3.h [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\MyForm3.h [Dise\u00F1o]",
+              "RelativeToolTip": "MyForm3.h [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-19T02:59:41.281Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyForm.h",
-              "DocumentMoniker": "C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm.h",
-              "RelativeDocumentMoniker": "MyForm.h",
-              "ToolTip": "C:\\Users\\42446504\\Desktop\\GitHub\\UNAM Software\\Biblioteca_UNAM\\MyForm.h",
-              "RelativeToolTip": "MyForm.h",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAALcAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-19T13:20:33.213Z",
-              "EditorCaption": ""
             }
           ]
         }
