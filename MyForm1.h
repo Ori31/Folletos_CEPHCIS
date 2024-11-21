@@ -110,11 +110,11 @@ namespace CppWinFormsApp2 {
 			// 
 			this->label2->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 15, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->label2->Location = System::Drawing::Point(250, 36);
+			this->label2->Location = System::Drawing::Point(282, 40);
 			this->label2->Name = L"label2";
-			this->label2->Size = System::Drawing::Size(398, 71);
+			this->label2->Size = System::Drawing::Size(332, 71);
 			this->label2->TabIndex = 4;
-			this->label2->Text = L"Servicio de folletos de la biblioteca de la UNAM";
+			this->label2->Text = L"Servicio de folletos del CEPHCIS";
 			this->label2->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
 			// 
 			// pictureBox1
