@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|c:\\users\\gohan\\onedrive\\documents\\biblioteca_app\\biblioteca_unam\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|c:\\users\\gohan\\onedrive\\documents\\biblioteca_app\\biblioteca_unam\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|c:\\users\\gohan\\onedrive\\documents\\biblioteca_app\\biblioteca_unam\\modelo\\librosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:modelo\\librosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\datos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:datos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|c:\\users\\gohan\\onedrive\\documents\\biblioteca_app\\biblioteca_unam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|c:\\users\\gohan\\onedrive\\documents\\biblioteca_app\\biblioteca_unam\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|c:\\users\\gohan\\onedrive\\documents\\biblioteca_app\\biblioteca_unam\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|c:\\users\\gohan\\onedrive\\documents\\biblioteca_app\\biblioteca_unam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|c:\\users\\gohan\\onedrive\\documents\\biblioteca_app\\biblioteca_unam\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|c:\\users\\gohan\\onedrive\\documents\\biblioteca_app\\biblioteca_unam\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A65F67CC-F994-4049-A854-3F7D7083E6B9}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,20 +50,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form3.cs",
-              "RelativeToolTip": "Form3.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAtwB8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T18:17:25.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T17:47:51.346Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -67,32 +75,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:17:25.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Datos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Datos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Datos\\Usuario.cs",
+              "RelativeToolTip": "Datos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:15:31.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Librosmodel.cs",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Modelo\\Librosmodel.cs",
+              "RelativeDocumentMoniker": "Modelo\\Librosmodel.cs",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Modelo\\Librosmodel.cs",
+              "RelativeToolTip": "Modelo\\Librosmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:13:40.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form4.cs",
               "RelativeDocumentMoniker": "Form4.cs",
               "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form4.cs",
               "RelativeToolTip": "Form4.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAtwB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T18:15:35.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form3.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
               "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form3.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form3.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T18:07:28.206Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-21T18:07:28.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form4.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form4.cs",
               "RelativeDocumentMoniker": "Form4.cs",
@@ -104,53 +148,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form2.cs",
-              "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADgvxcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:47:51.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAjwCYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:47:40.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:47:49.62Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:45:33.901Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-21T17:45:33.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAlwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:47:40.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\gohan\\OneDrive\\Documents\\Biblioteca_App\\Biblioteca_UNAM\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:47:49.62Z"
             }
           ]
         }
