@@ -22,3 +22,4 @@ C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\obj\Debug\Windo
 C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\obj\Debug\WindowsFormsApp1.Form3.resources
 C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\gohan\OneDrive\Documents\Biblioteca_App\Biblioteca_UNAM\obj\Debug\WindowsFormsApp1.Form5.resources

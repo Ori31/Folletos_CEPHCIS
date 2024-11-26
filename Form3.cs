@@ -30,5 +30,17 @@ namespace WindowsFormsApp1
             form.Show();
             this.Close();
         }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form5 form = new Form5();
+            form.Show();
+            this.Close();
+        }
     }
 }

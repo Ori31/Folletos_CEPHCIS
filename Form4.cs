@@ -7,16 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsFormsApp1.Datos;
-using WindowsFormsApp1.Modelo;
 
 namespace WindowsFormsApp1
 {
     public partial class Form4 : Form
     {
 
-        DataTable tabla;
-        Usuario dato = new Usuario();
         public Form4()
         {
             InitializeComponent();
@@ -31,32 +27,37 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Guardar();
-            Iniciar();
-            MessageBox.Show("Se ha guardado correctamente");
-            Limpiar();
+            string nombre = Nomfolleto.Text;
+            string autor = Autor.Text;
+            string clave = txt_clave.Text;
+            string ubicacion = txt_ubi.Text;
+            string descripcion = txt_des.Text;
+            Libros nuevoLibro = new Libros(0, nombre, autor, clave, ubicacion, descripcion);
+            int fila = nuevoLibro.AgregarLibro();
 
-        }
-        private void Guardar()
-        {
-            Librosmodel modelo = new Librosmodel()
+            if (fila == 1)
             {
-                Nombre = Nomfolleto.Text ,
-                Autor = Autor.Text
-            };
-            dato.Guardar(modelo);
+                MessageBox.Show("Se ha guardado correctamente");
+                Limpiar();
+
+            }
+            else
+            {
+                MessageBox.Show("Ocurrio un error, intente de nuevo");
+                Limpiar();
+            }
+           
+
         }
         private void Limpiar()
         {
             Nomfolleto.Text = "";
             Autor.Text = "";
-        }
-        private void Iniciar()
-        {
-            tabla = new DataTable();
-            tabla.Columns.Add("Nombre");
-            tabla.Columns.Add("Autor");
+            txt_clave.Text = "";
+            txt_ubi.Text = "";
+            txt_des.Text = "";
 
         }
+      
     }
 }

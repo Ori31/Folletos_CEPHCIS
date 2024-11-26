@@ -36,6 +36,9 @@ namespace WindowsFormsApp1
                 Form3 form3 = new Form3();
                 form3.Show();
                 this.Hide();
+            } else
+            {
+                MessageBox.Show("Usuario o contraseña incorrectos");
             }
         }
 
