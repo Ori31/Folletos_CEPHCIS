@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8B7CD732-B698-43A2-B56E-4C8EDF85003D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SoftwareFolletosCEPHCIS</RootNamespace>
+    <AssemblyName>SoftwareFolletosCEPHCIS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPage.Designer.cs">
+      <DependentUpon>AddPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libros.cs" />
+    <Compile Include="EditPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditPage.Designer.cs">
+      <DependentUpon>EditPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VirtualPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VirtualPage.Designer.cs">
+      <DependentUpon>VirtualPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LocationPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LocationPage.Designer.cs">
+      <DependentUpon>LocationPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoPage.Designer.cs">
+      <DependentUpon>InfoPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuestSearchPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuestSearchPage.Designer.cs">
+      <DependentUpon>GuestSearchPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatsPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatsPage.Designer.cs">
+      <DependentUpon>StatsPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GuestMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuestMainPage.Designer.cs">
+      <DependentUpon>GuestMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainPage.Designer.cs">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminMainPage.Designer.cs">
+      <DependentUpon>AdminMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddPage.resx">
+      <DependentUpon>AddPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoPage.resx">
+      <DependentUpon>InfoPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuestSearchPage.resx">
+      <DependentUpon>GuestSearchPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LocationPage.resx">
+      <DependentUpon>LocationPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatsPage.resx">
+      <DependentUpon>StatsPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditPage.resx">
+      <DependentUpon>EditPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuestMainPage.resx">
+      <DependentUpon>GuestMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPage.resx">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminMainPage.resx">
+      <DependentUpon>AdminMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="VirtualPage.resx">
+      <DependentUpon>VirtualPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

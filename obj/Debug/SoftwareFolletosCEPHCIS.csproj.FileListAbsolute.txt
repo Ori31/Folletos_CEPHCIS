@@ -1,0 +1,57 @@
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\bin\Debug\SoftwareFolletosCEPHCIS.exe.config
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\bin\Debug\SoftwareFolletosCEPHCIS.exe
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\bin\Debug\SoftwareFolletosCEPHCIS.pdb
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.csproj.AssemblyReference.cache
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.Properties.Resources.resources
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.csproj.GenerateResource.cache
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.csproj.CoreCompileInputs.cache
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.exe
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.pdb
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.MainPage.resources
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.AdminMainPage.resources
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.GuestMainPage.resources
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.AddPage.resources
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.EditPage.resources
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.StatsPage.resources
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.GuestSearchPage.resources
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.InfoPage.resources
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.LocationPage.resources
+C:\Users\42446504\source\repos\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.VirtualPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\bin\Debug\SoftwareFolletosCEPHCIS.exe.config
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\bin\Debug\SoftwareFolletosCEPHCIS.exe
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\bin\Debug\SoftwareFolletosCEPHCIS.pdb
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.csproj.AssemblyReference.cache
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.AddPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.InfoPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.GuestSearchPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.LocationPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.StatsPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.EditPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.GuestMainPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.MainPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.AdminMainPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.Properties.Resources.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.VirtualPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.csproj.GenerateResource.cache
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.csproj.CoreCompileInputs.cache
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.exe
+C:\Users\gohan\Downloads\CEPHCIS_Software\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.pdb
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\bin\Debug\SoftwareFolletosCEPHCIS.exe.config
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\bin\Debug\SoftwareFolletosCEPHCIS.exe
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\bin\Debug\SoftwareFolletosCEPHCIS.pdb
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.csproj.AssemblyReference.cache
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.AddPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.InfoPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.GuestSearchPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.LocationPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.StatsPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.EditPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.GuestMainPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.MainPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.AdminMainPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.Properties.Resources.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.VirtualPage.resources
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.csproj.GenerateResource.cache
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.csproj.CoreCompileInputs.cache
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.exe
+C:\Users\gohan\Downloads\CEPHCIS_Software - copia\SoftwareFolletosCEPHCIS\SoftwareFolletosCEPHCIS\obj\Debug\SoftwareFolletosCEPHCIS.pdb
